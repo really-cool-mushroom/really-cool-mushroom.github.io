@@ -1,0 +1,20 @@
+    body {
+      text-align: center;
+      background: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-256813.jpg");
+      background-repeat: no-repeat;
+      color: white;
+      font-family: helvetica;
+      padding: 50;
+    }
+    p {
+      font-size: 25px;
+    }
+    li {
+      margin: 0 auto;
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    a {
+      color: white;
+      font-size: 20px;
+    }
